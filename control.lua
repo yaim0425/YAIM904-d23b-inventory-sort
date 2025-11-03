@@ -77,7 +77,7 @@ function This_MOD.load_events()
     --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ---
 
     script.on_event({
-        defines.events.on_gui_opened
+        defines.events.on_gui_closed
     }, function(event)
         This_MOD.inventory_sort(GMOD.create_data(event, This_MOD))
     end)
