@@ -34,12 +34,23 @@ The MOD does not change storage capacity or item behavior, only their order.
 
 ## 🔗 Repository
 
-* GitHub: [https://github.com/yaim0425/YAIM0425-d23b-inventory-sort](https://github.com/yaim0425/YAIM0425-d23b-inventory-sort)
+**MOD**
+[YAIM0425 d23b Inventory sort](https://github.com/yaim0425/YAIM0425-d23b-inventory-sort)
+
+**Required**
+
+[YAIM0425 d00b Core](https://github.com/yaim0425/YAIM0425-d00b-core)
+
+---
+
+## ❤️ Support
+
+Suggestions, ideas, and balance feedback are welcome on the GitHub repository.
 
 ---
 
 ## 🖼️ Screenshots
 
-![Inventory Sort Screenshot 1](screenshot/\(1\).png)
+![Screenshot 1](https://github.com/yaim0425/YAIM0425-d23b-inventory-sort/raw/code/screenshot/(1).png)
 
----
+![Screenshot 2](https://github.com/yaim0425/YAIM0425-d23b-inventory-sort/raw/code/screenshot/(2).png)
