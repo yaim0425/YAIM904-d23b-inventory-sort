@@ -1,12 +1,12 @@
 {
-  "name": "YAIM0425-d23b-inventory-sort",
+  "name": "YAIM904-d23b-inventory-sort",
   "version": "0.0.1",
-  "title": "YAIM0425 d23b Inventory sort",
-  "author": "YAIM0425",
+  "title": "YAIM904 d23b Inventory sort",
+  "author": "YAIM904",
   "factorio_version": "2.0",
   "description": "Sort the objects when closing the container. [[I accept suggestions]]",
-  "homepage": "https://github.com/yaim0425/YAIM0425-d23b-inventory-sort",
+  "homepage": "https://github.com/yaim0425/YAIM904-d23b-inventory-sort",
   "dependencies": [
-    "YAIM0425-d00b-core"
+    "YAIM904-d00b-core"
   ]
 }
