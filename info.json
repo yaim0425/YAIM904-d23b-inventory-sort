@@ -4,7 +4,7 @@
   "title": "YAIM904 d23b Inventory sort",
   "author": "YAIM904",
   "factorio_version": "2.0",
-  "description": "Sort the objects when openig the container. [[I accept suggestions]]",
+  "description": "Sort the objects when opening the container. [[I accept suggestions]]",
   "homepage": "https://github.com/yaim0425/YAIM904-d23b-inventory-sort",
   "dependencies": [
     "YAIM904-d00b-core"

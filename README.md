@@ -8,7 +8,7 @@
 
 This MOD helps keep inventories clean and organized by rearranging items into a consistent order every time the player finishes interacting with a container.
 
-It is especially useful for storage management, logistics hubs, and factories where order and clarity are important.
+It is especially useful for storage management, logistics hubs and factories where order and clarity are important.
 
 ---
 
@@ -47,7 +47,7 @@ The MOD does not change storage capacity or item behavior, only their order.
 
 ## ❤️ Support
 
-Suggestions, ideas, and balance feedback are welcome on the GitHub repository.
+Suggestions, ideas and balance feedback are welcome on the GitHub repository.
 
 ---
 
