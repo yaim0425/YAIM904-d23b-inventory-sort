@@ -2,7 +2,7 @@
 
 ## 📦 Description
 
-**YAIM904 d23b – Inventory Sort** automatically **sorts the contents of a container when it is closed**.
+**YAIM904 d23b – Inventory Sort** automatically **sorts the contents of a container when it is opening**.
 
 This MOD helps keep inventories clean and organized by rearranging items into a consistent order every time the player finishes interacting with a container.
 
@@ -12,7 +12,7 @@ It is especially useful for storage management, logistics hubs, and factories wh
 
 ## ⚙️ How it works (Player view)
 
-* Container contents are **sorted automatically on close**
+* Container contents are **sorted automatically on opening**
 * Sorting applies only after player interaction
 * No configuration or manual action is required
 * Works transparently with existing containers
