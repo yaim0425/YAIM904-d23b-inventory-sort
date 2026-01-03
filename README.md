@@ -1,5 +1,7 @@
 # YAIM904 d23b – Inventory Sort 🧹📦
 
+---
+
 ## 📦 Description
 
 **YAIM904 d23b – Inventory Sort** automatically **sorts the contents of a container when it is opening**.
