@@ -53,6 +53,7 @@ function This_MOD.reference_values()
         ["container"] = defines.inventory.chest,
         ["cargo-wagon"] = defines.inventory.cargo_wagon,
         ["spider-vehicle"] = defines.inventory.spider_trunk,
+        ["linked-container"] = defines.inventory.chest,
         ["logistic-container"] = defines.inventory.chest,
         ["roboport"] = {
             defines.inventory.roboport_robot,
