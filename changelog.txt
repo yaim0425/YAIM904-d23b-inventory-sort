@@ -4,8 +4,9 @@ Date: 2026-01-31
   Info:
     - The activation event occurs when the container is opened.
     - They affect linked containers. 
-
+---------------------------------------------------------------------------------------------------
 Version: 0.0.1
 Date: 2025-12-31
   Info:
     - Initial release
+---------------------------------------------------------------------------------------------------
